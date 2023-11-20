@@ -1,1 +1,1 @@
-# Quicksell_Frontend_Assignment
+# QuickSell_Frontend_Assignment
